@@ -1,155 +1,129 @@
 { "ADS":
     {
   
+      "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":true,
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"huawei",
+      "inter_type":"huawei",
+      "native_type":"huawei",
+      "reward_type":"huawei",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
      
 
-      "banner_type_1":"admob",
-      "inter_type_1":"admob",
-      "inter_or_reward_1":"inter",
-      "native_type_1":"admob",
-      "reward_type_1":"admob",
-      "native_or_mrec_1":"native",
+      "banner_yandex":"R-M-DEMO-300x50",
+      "native_yandex":"R-M-DEMO-interstitial",
+      "interstitial_yandex":"R-M-DEMO-native-i",
+      "rewarde_yandex":"R-M-DEMO-300x50",
+        
+        
+        "banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
 
-      "banner_type_2":"admob",
-      "inter_type_2":"admob",
-      "inter_or_reward_2":"inter",
-      "native_type_2":"admob",
-      "reward_type_2":"admob",
-      "native_or_mrec_2":"native",
+      
+       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
 
-     "banner_type_3":"admob",
-      "inter_type_3":"admob",
-      "inter_or_reward_3":"inter",
-      "native_type_3":"admob",
-      "reward_type_3":"admob",
-      "native_or_mrec_3":"native",
+      "applovin_banner":"R-M-DEMO-300x50",
+      "applovin_interstitial":"R-M-DEMO-interstitial",
+      "applovin_reward":"R-M-DEMO-native-i",
+      "applovin_native":"R-M-DEMO-300x50",
 
-      "banner_type_4":"admob",
-      "inter_type_4":"admob",
-      "inter_or_reward_4":"inter",
-      "native_type_4":"admob",
-      "reward_type_4":"admob",
-      "native_or_mrec_4":"native",
+      "facebook_banner":"R-M-DEMO-interstitial",
+      "facebook_interstitial":"R-M-DEMO-native-i",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"R-M-DEMO-interstitial"
 
-       "banner_type_5":"admob",
-      "inter_type_5":"admob",
-      "inter_or_reward_5":"inter",
-      "native_type_5":"admob",
-      "reward_type_5":"admob",
-      "native_or_mrec_5":"native",
-
-     
-
-      "ironsource_id":"ca-app-pub56099942",
-      "unity_id":"ca-app-pub56099942",
-
-
-     
-
-      "banner_id_1":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_1":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_1":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_1":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_1":"ca-app-pub-3940256099942544/2247696110",
-    
-
-      "banner_id_2":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_2":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_2":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_2":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_2":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_3":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_3":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_3":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_3":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_3":"ca-app-pub-3940256099942544/2247696110",
-    
-      "banner_id_4":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_4":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_4":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_4":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_4":"ca-app-pub-3940256099942544/2247696110",
-    
-
-     "banner_id_5":"ca-app-pub-3940256099942544/6300978111",
-      "interstitial_id_5":"ca-app-pub-3940256099942544/1033173712",
-      "reward_id_5":"ca-app-pub-3940256099942544/5354046379",
-      "mrec_id_5":"ca-app-pub-3940256099942544/2247696110",
-      "native_id_5":"ca-app-pub-3940256099942544/2247696110"
-    
   
     },
-    "guideData": [
+    "skins": [
     {
-      "image_link": "https://iili.io/H0XxM1j.jpg",
-      "title": "Chat-with-GPT 1",
-        "text_Content": "GPT (Generative Pre-trained Transformer) AI is a state-of-the-art language generation model developed by OpenAI. It is trained on a massive amount of text data, allowing it to generate human-like text with high accuracy.",
-        "text_Content_1": ""
-
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0XxVrx.jpg",
-      "title": "Chat-with-GPT 2",
-        "text_Content": "One of the key features of GPT is its ability to perform various natural language processing tasks, such as language translation, text summarization, and question answering. This is achieved through its ability to understand and generate contextually relevant text.",
-        "text_Content_1": ""
-
-
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
 
       
     },
     {
-      "image_link": "https://iili.io/H0XxGqb.jpg",
-      "title": "Chat-with-GPT 3",
-        "text_Content": "In addition to its natural language processing capabilities, GPT can also be used for a wide range of applications, including content generation, chatbots, and virtual assistants. For example, it can be used to generate product descriptions, social media posts, and news articles. Additionally, it can be integrated with chatbot platforms to provide more natural and engaging interactions with customers.",
-        "text_Content_1": ""
-
-
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
 
       
     }
     ,{
-      "image_link": "https://iili.io/H0XxXdQ.jpg",
-      "title": "Chat-with-GPT 4",
-        "text_Content": "One of the most interesting applications of GPT is its ability to generate creative text, such as poetry and fiction. This has the potential to revolutionize the field of creative writing, as it can help writers come up with new ideas and inspiration.",
-        "text_Content_1": ""
-
-
-
-      
-    },
-    {
-      "image_link": "https://iili.io/H0Xxh7V.jpg",
-      "title": "Chat-with-GPT 5",
-        "text_Content": "However, it's important to note that GPT has also raised concerns regarding its potential to be used for malicious purposes, such as creating deepfake videos and spreading misinformation. OpenAI has stated that it is working on ways to mitigate these risks and promote responsible use of the technology.",
-        "text_Content_1": ""
-
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
 
 
       
     },
     {
-      "image_link": "https://iili.io/H0XxjkB.jpg",
-      "title": "Chat-with-GPT 6",
-        "text_Content": "In conclusion, GPT AI is a powerful tool that has the potential to revolutionize the way we interact with language and technology",
-        "text_Content_1": ""
-
-
-
-      
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
     },
     {
-      "image_link": "https://iili.io/H0XxwmP.jpg",
-      "title": "LorChat-with-GPT 7",
-        "text_Content": "Its ability to generate human-like text and understand context makes it a valuable asset for a wide range of applications. However, it is important to be aware of the potential risks and to use it responsibly.",
-        "text_Content_1": ""
-
-
-
-      
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+     
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
     }
   ], "Apps": [
     {
@@ -208,4 +182,5 @@
 
     }
   ]
+ 
   }
